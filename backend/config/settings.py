@@ -44,6 +44,8 @@ INSTALLED_APPS = [
 
     # VisionForge applications
     "core",
+    "dataset_analyzer.apps.AnalyzerConfig",
+    
 ]
 
 MIDDLEWARE = [
